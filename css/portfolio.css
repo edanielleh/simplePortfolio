@@ -1,0 +1,60 @@
+/*cover photo*/
+#center-text {
+    color: white;
+}
+
+.image {
+    height: 100vh;
+    background-image: linear-gradient(
+            rgba(0, 0, 0, 0.4),
+            rgba(0, 0, 0, 0.4)
+    ),
+    url("../resources/background.jpg");
+    background-size: 100% 100%;
+
+}
+
+h1 {
+    padding-top: 20%;
+}
+
+body {
+    min-height: 100%
+}
+
+.btn-row {
+    text-align: center;
+}
+
+.center-btn {
+    background-color: black !important;
+    border: none;
+}
+
+.center-btn:hover {
+    background-color: grey;
+}
+
+/* footer section */
+footer {
+    background-color: black;
+}
+
+html {
+    height: 100%
+}
+
+.centerBtn {
+    padding-top: 25%;
+}
+.navbar-toggle .icon-bar {
+    display: block;
+    width: 22px;
+    height: 2px;
+    background-color: #cccccc;
+    border-radius: 1px;
+}
+
+
+
+

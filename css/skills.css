@@ -1,0 +1,55 @@
+
+
+/*cover photo*/
+#center-text {
+    vertical-align: text-top;
+    padding-top: 35%;
+    padding-bottom: 15%;
+    padding-left: 10%;
+    color: white;
+}
+
+.image {
+    height: 100vh;
+    background-image: linear-gradient(
+            rgba(0, 0, 0, 0.4),
+            rgba(0, 0, 0, 0.4)
+    ),
+    url("../resources/background.jpg");
+    background-size: 100% 100%;
+
+}
+
+#center {
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: large;
+    color: white;
+}
+
+#left-col {
+    text-align: right;
+    font-family: 'Merriweather', serif;
+    font-size: large;
+    color: white;
+}
+
+#right-col {
+    text-align: left;
+    font-family: 'Merriweather', serif;
+    font-size: large;
+    color: white;
+}
+
+footer {
+    color: white;
+    background-color: black;
+}
+
+html {
+    height: 100%;
+}
+
+.jumbotron {
+    background: rgba(1,1,1,0.5);
+}
