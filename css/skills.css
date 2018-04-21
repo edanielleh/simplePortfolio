@@ -9,17 +9,6 @@
     color: white;
 }
 
-.image {
-    height: 100vh;
-    background-image: linear-gradient(
-            rgba(0, 0, 0, 0.4),
-            rgba(0, 0, 0, 0.4)
-    ),
-    url("../resources/background.jpg");
-    background-size: 100% 100%;
-
-}
-
 #center {
     text-align: center;
     font-family: 'Merriweather', serif;
@@ -41,14 +30,10 @@
     color: white;
 }
 
-footer {
-    color: white;
-    background-color: black;
-}
 
-html {
+/* html {
     height: 100%;
-}
+} */
 
 .jumbotron {
     background: rgba(1,1,1,0.5);
