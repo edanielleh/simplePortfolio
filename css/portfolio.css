@@ -3,17 +3,6 @@
     color: white;
 }
 
-.image {
-    height: 100vh;
-    background-image: linear-gradient(
-            rgba(0, 0, 0, 0.4),
-            rgba(0, 0, 0, 0.4)
-    ),
-    url("../resources/background.jpg");
-    background-size: 100% 100%;
-
-}
-
 h1 {
     padding-top: 20%;
 }
