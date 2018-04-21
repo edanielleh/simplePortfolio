@@ -30,18 +30,10 @@
     color: white;
 }
 
-footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    color: white;
-    background-color: black;
-}
 
-html {
+/* html {
     height: 100%;
-}
+} */
 
 .jumbotron {
     background: rgba(1,1,1,0.5);
